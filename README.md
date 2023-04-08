@@ -16,7 +16,7 @@ Also, other variants of this repo are not technically "new" versions of this, bu
 ``` PowerShell
 $AppXApps = @(
 
-        #Unnecessary Windows 10 AppX Apps
+        #Unnecessary Windows 11 AppX Apps
         "*Microsoft.BingNews*"
         "*Microsoft.GetHelp*"
         "*Microsoft.Getstarted*"
@@ -44,7 +44,7 @@ $AppXApps = @(
         "*Microsoft.ZuneMusic*"
         "*Microsoft.ZuneVideo*"
 
-        #Sponsored Windows 10 AppX Apps
+        #Sponsored Windows 11 AppX Apps
         #Add sponsored/featured apps to remove in the "*AppName*" format
         "*EclipseManager*"
         "*ActiproSoftwareLLC*"
